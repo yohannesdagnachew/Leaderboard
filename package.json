@@ -22,6 +22,8 @@
   "homepage": "https://github.com/yohannesdagnachew/Leaderboard#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
+    "eslint": "^8.17.0",
+    "eslint-plugin-react": "^7.30.0",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.73.0",
