@@ -15,6 +15,8 @@ const newFunc = () => {
     score: score.value,
   };
   getPost(inputFile);
+  user.value = ''
+  score.value= ''
 };
 
 add.addEventListener('click', (e) => {
@@ -26,3 +28,8 @@ refbtn.addEventListener('click', (e) => {
   e.preventDefault();
   generate();
 });
+
+
+
+
+    

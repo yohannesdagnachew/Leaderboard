@@ -9,13 +9,13 @@
   <body>
     <h1>Leaderboard</h1>
     <div class="container">
-      <section id="title">
+      <section class="right-row" id="title">
         <div class="refresh-title">
           <h3>Recent scores</h3>
           <button class="btn-refresh" id="refresh">Refresh</button>
         </div>
         <ul class="list" id="list">
-          
+
         </ul>
       </section>
       <form action="">
@@ -24,6 +24,7 @@
           type="text"
           name="name"
           id="name"
+          class="user"
           required
           placeholder="your name"
         />
@@ -31,6 +32,7 @@
           type="text"
           name="score"
           id="score"
+          class="user"
           required
           placeholder="your score"
         />
