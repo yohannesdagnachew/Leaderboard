@@ -2,8 +2,6 @@ import './style/main.css';
 import { getPost } from './js/createlement.js';
 import { generate } from './js/generate';
 
-const url =
-  'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/ljmGTCiQ0bLn1cM60koG/scores';
 const add = document.querySelector('#submit');
 const refbtn = document.querySelector('#refresh');
 
