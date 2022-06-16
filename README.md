@@ -10,9 +10,8 @@
 - Javascript
 - HTML and CSS
 
-
+![Leaderboard](/img/leaderboard.png)
 [Live Demo Link](Not yet)
-
 
 ## Getting Started
 
@@ -52,7 +51,7 @@ run 'npm start'
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/yohannesdagnachew/To-Do-List/issues).
+Feel free to check the [https://github.com/yohannesdagnachew/Leaderboard/issues)
 
 ## Show your support
 
