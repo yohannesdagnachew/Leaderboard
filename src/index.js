@@ -1,6 +1,6 @@
 import './style/main.css';
 import { getPost } from './js/createlement.js';
-import { generate } from './js/generate';
+import { generate } from './js/generate.js';
 
 const add = document.querySelector('#submit');
 const refbtn = document.querySelector('#refresh');
@@ -15,6 +15,8 @@ const newFunc = () => {
     score: score.value,
   };
   getPost(inputFile);
+  user.value = '';
+  score.value = '';
 };
 
 add.addEventListener('click', (e) => {

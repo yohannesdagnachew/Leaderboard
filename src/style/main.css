@@ -23,12 +23,59 @@ h1 {
   justify-content: center;
 }
 
+.hr-one {
+  width: 12.5rem;
+  border-top: 1px solid red;
+}
+
 .list {
-  box-shadow: 1px 1px 2px 1px gray;
-  list-style: none;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  padding-left: 0;
+  box-shadow: 1px 1px 3px 3px black;
 }
 
 .list-item {
   display: flex;
   gap: 1.25rem;
+  justify-content: space-between;
+  list-style: none;
+  padding-right: 15px;
+  padding-left: 15px;
+  height: 2.5rem;
+}
+
+.gray {
+  display: flex;
+  gap: 1.25rem;
+  background-color: rgb(188, 184, 184);
+  justify-content: space-between;
+  list-style: none;
+  padding-right: 15px;
+  padding-left: 15px;
+  height: 2.5rem;
+}
+
+.btn-refresh {
+  box-shadow: 10px 11px 3px -5px rgba(0, 0, 0, 1);
+  height: 1.875rem;
+  border-radius: 10px;
+}
+
+.submit {
+  box-shadow: 10px 11px 3px -5px rgba(0, 0, 0, 1);
+  width: 5rem;
+  margin-left: 5rem;
+}
+
+.right-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 31.25rem;
+}
+
+.user {
+  outline: none;
 }
