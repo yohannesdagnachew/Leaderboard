@@ -9,7 +9,7 @@
 - HTML and CSS
 
 ![Leaderboard](/img/leaderboard.png)
-[Live Demo Link](Not yet)
+[Live Demo Link](https://yohannesdagnachew.github.io/Leaderboard/dist/)
 
 
 ## Getting Started
