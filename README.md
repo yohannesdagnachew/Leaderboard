@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
 
 > Leaderboard
@@ -10,7 +8,7 @@
 - Javascript
 - HTML and CSS
 
-[Leaderboard](/img/leaderboard.png)
+![Leaderboard](/img/leaderboard.png)
 [Live Demo Link](Not yet)
 
 
